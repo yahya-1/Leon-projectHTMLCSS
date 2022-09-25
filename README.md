@@ -16,7 +16,6 @@ It is Lean - a web template designed using HTML and CSS, which is responsive to 
 - write `git clone https://github.com/yahya-1/Leon-projectHTMLCSS.git`
 - Then `cd Leon-projectHTMLCSS`
 - run `open with live server`
-- run `npm run dev`
 
 ---
 
